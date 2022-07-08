@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new text for file-1
+=======
+text for file-1
+>>>>>>> 831c6d9 (commit on branch-2-1)
